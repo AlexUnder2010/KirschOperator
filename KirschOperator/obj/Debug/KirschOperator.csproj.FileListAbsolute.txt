@@ -1,0 +1,9 @@
+c:\users\alexu\documents\visual studio 2015\Projects\KirschOperator\KirschOperator\bin\Debug\KirschOperator.exe.config
+c:\users\alexu\documents\visual studio 2015\Projects\KirschOperator\KirschOperator\bin\Debug\KirschOperator.exe
+c:\users\alexu\documents\visual studio 2015\Projects\KirschOperator\KirschOperator\bin\Debug\KirschOperator.pdb
+c:\users\alexu\documents\visual studio 2015\Projects\KirschOperator\KirschOperator\obj\Debug\KirschOperator.csprojResolveAssemblyReference.cache
+c:\users\alexu\documents\visual studio 2015\Projects\KirschOperator\KirschOperator\obj\Debug\KirschOperator.Properties.Resources.resources
+c:\users\alexu\documents\visual studio 2015\Projects\KirschOperator\KirschOperator\obj\Debug\KirschOperator.csproj.GenerateResource.Cache
+c:\users\alexu\documents\visual studio 2015\Projects\KirschOperator\KirschOperator\obj\Debug\KirschOperator.exe
+c:\users\alexu\documents\visual studio 2015\Projects\KirschOperator\KirschOperator\obj\Debug\KirschOperator.pdb
+c:\users\alexu\documents\visual studio 2015\Projects\KirschOperator\KirschOperator\obj\Debug\KirschOperator.Form1.resources
